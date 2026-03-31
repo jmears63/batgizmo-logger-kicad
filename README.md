@@ -6,21 +6,22 @@ This repo contains hardware design files for the BatGizmo Logger PCB, generated 
   <img src="pcb-front.png" alt="PCB front" width="48%">
   <img src="pcb-back.png" alt="PCB back" width="48%">
 </p>
+These are static images and may be out of date. Open the project files in KiCad to see the most recent versions.
 
-## What is The BatGizmo Logger?
+## What Is the BatGizmo Logger?
 
-The BatGizmo logger is an ultrasonic microphone that can be used for monitoring bats in two ways:
+The BatGizmo Logger is an ultrasonic microphone that can be used for bat monitoring in two ways:
 
-* Active monitoring, plugged via USB into an Android phone or tablet with the [BatGizmo app](https://play.google.com/store/apps/details?id=uk.org.gimell.batgizmoapp) installed.
-* Passive monitoring, powered by 3xAA batteries, triggered of recording full spectrum bat data to wav files stored on SD card.
+- Active monitoring, connected via USB to an Android phone or tablet with the [BatGizmo app](https://play.google.com/store/apps/details?id=uk.org.gimell.batgizmoapp) installed.
+- Passive monitoring, powered by 3xAA batteries, capable of recording full-spectrum bat data to WAV files stored on an SD card.
 
 ## Board Contents
 
 - STM32U5 series microcontroller
 - MEMS microphone front end (Infineon IM73A135) with analog conditioning
 - microSD connector for local data logging and configuration
-- USB Micro-B connector for power and live audio data in active monitor mode, and direct firmware update
-- Optional real time clock powered by CR1220 battery
+- USB Micro-B connector for power and live audio data in active monitoring mode, plus direct firmware update
+- Optional real-time clock powered by a CR1220 battery
 - On-board mode switch options and status LEDs
 
 ## Getting Started
@@ -53,3 +54,9 @@ This project is licensed under the **CERN Open Hardware License v2 - Permissive 
 See `LICENSE.md` for the full text.
 
 Copyright (c) 2024-2026 John Mears.
+
+## Schematic
+
+
+![Schematic](schematic.png)
+This is a static image and may be out of date. Open the project files in KiCad to see the most recent version.

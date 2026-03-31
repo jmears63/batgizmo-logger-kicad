@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP XC8101AA01MR-G
+D TOREX - XC8101AA01MR-G - Power Load Distribution Switch, High Side, Active High, 1 Output, 6V, 300mA, 1.25ohm, SOT-25, 5-Pin
+K
+F https://www.torexsemi.com/file/xc8101/XC8101.pdf
+$ENDCMP
+#
+#End Doc Library

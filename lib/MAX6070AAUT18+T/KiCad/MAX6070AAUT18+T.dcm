@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX6070AAUT18+T
+D V-Ref Precision 1.8V 10mA 6-Pin SOT-23 T/R
+K
+F https://datasheets.maximintegrated.com/en/ds/MAX6070-MAX6071.pdf
+$ENDCMP
+#
+#End Doc Library

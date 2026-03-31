@@ -1,0 +1,18 @@
+.MAX6070AAUT18-plus-T :1 ;V-Ref Precision 1.8V 10mA 6-Pin SOT-23 T/R
+SOT95P280X145-6N
+*STM IC
+*NGS
+*PLB 1="FILTER" 2="GND" 3="EN" 4="IN" 5="OUTS" 6="OUTF"
+*MXP 6
+*DFN MAX6070AAUT18-plus-T
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (MAX6070AAUT18+T)
+~!Mouser Part Number (700-MAX6070AAUT18T)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX6070AAUT18%2bT?qs=fEkotVtiOiQPKIf6MZqOIA%3D%3D)
+~!Arrow Part Number (MAX6070AAUT18+T)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/max6070aaut18t/maxim-integrated?region=nac)
+~!Link Datasheet (https://datasheets.maximintegrated.com/en/ds/MAX6070-MAX6071.pdf)
+~!Height (1.45mm)
+~!3D_Model (MAX6070AAUT18+T)
+MAX6070AAUT18-plus-T
+1.1!U 2.1!U 3.1!U 6.1!U 5.1!U 4.1!U 

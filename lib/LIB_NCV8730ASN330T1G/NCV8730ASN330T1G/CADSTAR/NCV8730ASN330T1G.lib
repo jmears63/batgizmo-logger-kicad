@@ -1,0 +1,18 @@
+.NCV8730ASN330T1G :1 ;LDO Regulator Pos 3.3V 0.15A Automotive 5-Pin TSOP T/R
+SOT95P275X110-5N
+*STM IC
+*NGS
+*PLB 1="IN" 2="GND" 3="EN" 4="NC" 5="OUT"
+*MXP 5
+*DFN NCV8730ASN330T1G
+~!Manufacturer_Name (onsemi)
+~!Manufacturer_Part_Number (NCV8730ASN330T1G)
+~!Mouser Part Number (863-NCV8730ASN330T1G)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/onsemi/NCV8730ASN330T1G?qs=GedFDFLaBXG9IOwczGXdzg%3D%3D)
+~!Arrow Part Number (NCV8730ASN330T1G)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/ncv8730asn330t1g/on-semiconductor?region=nac)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/2df29e4e0191e431728827d4926d2a47.pdf)
+~!Height (1.1mm)
+~!3D_Model (NCV8730ASN330T1G)
+NCV8730ASN330T1G
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

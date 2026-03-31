@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MAX6070AAUT18_T'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Analog Devices", "MAX6070AAUT18+T" (!) = "", "SOT95P280X145-6N", "SOT23 (6-Pin)", "700-MAX6070AAUT18T", "https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX6070AAUT18%2bT?qs=fEkotVtiOiQPKIf6MZqOIA%3D%3D", "MAX6070AAUT18+T", "https://www.arrow.com/en/products/max6070aaut18t/maxim-integrated?region=nac", "V-Ref Precision 1.8V 10mA 6-Pin SOT-23 T/R", "https://datasheets.maximintegrated.com/en/ds/MAX6070-MAX6071.pdf", "1.45 mm"
+END_PART
+
+END.

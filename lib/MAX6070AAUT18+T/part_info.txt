@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=MAX6070AAUT18+T
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (6-Pin)
+PinCount=6
+Version=1.1
+Released=2023-03-11 05:11:26
+Downloaded=2024-01-29 19:51:45
+3D=Y

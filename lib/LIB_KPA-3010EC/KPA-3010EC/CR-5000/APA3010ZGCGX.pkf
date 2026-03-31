@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "APA3010ZGCGX"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "APA3010ZGCGX")
+        (spec "default")
+    )
+)

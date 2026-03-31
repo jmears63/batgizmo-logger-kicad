@@ -1,0 +1,118 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "KPA-3010EC"
+   (description "2.5 V Red LED Side View SMD, Kingbright KPA-3010EC")
+   (family "DIO")
+   (package "APA3010ZGCGX")
+   (attribute "Datasheet Link" "https://componentsearchengine.com/Datasheets/2/KPA-3010EC.pdf")
+   (attribute "Geometry.Height" "2mm")
+   (attribute "Manufacturer_Name" "Kingbright")
+   (attribute "Manufacturer_Part_Number" "KPA-3010EC")
+   (attribute "Mouser Part Number" "N/A")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Kingbright/KPA-3010EC?qs=2JU0tDl2GZ2Xj2WABSYoCA%3D%3D")
+   (attribute "Arrow Part Number" "KPA-3010EC")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/kpa-3010ec/kingbright?region=europe")
+   (gate
+    (symbol "KPA-3010EC")
+    (pin "K" 1 PS)
+    (pin "A" 2 PS)
+    (pin "THERMAL_PAD" 3 PS)
+   )
+  )
+  (symbol "KPA-3010EC"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1100 100) (pt 1100 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 1300 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "APA3010ZGCGX"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -1.5 0.5)
+      (pt 1.5 0.5)
+      (pt 1.5 -0.5)
+      (pt -1.5 -0.5)
+      (pt -1.5 0.5))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.5 2.5)
+      (pt 3.5 2.5)
+      (pt 3.5 -2.1)
+      (pt -3.5 -2.1)
+      (pt -3.5 2.5))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -0.5 0.5)
+      (pt 0.5 0.5))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -2.9 -0.1)
+      (arc (pt -2.900 -0.100) (pt -3.000 -0.100) (pt -2.800 0.100) (start 180.0) (sweep -90.0))
+      (pt -2.9 0.1)
+      (arc (pt -2.900 0.100) (pt -3.000 -0.100) (pt -2.800 0.100) (start 180.0) (sweep 90.0))
+      (pt -2.9 -0.1))))
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -1 0.5)
+      (pt 1 0.5)
+      (arc (pt 1.000 0.500) (pt -1.000 -0.500) (pt 1.000 1.500) (start 180.0) (sweep .0))
+      (pt -1 0.5))))
+   (leg 1 (pt -1.750 0.000) (padstack 0))
+   (leg 2 (pt 1.750 0.000) (padstack 0))
+   (leg 3 (pt 0.000 -0.650) (padstack 3))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (square 1.500))
+   )
+   (padstack 3
+    (plated false)
+    (pad (layer TCOP) (square 0.900))
+   )
+  )
+ )
+)

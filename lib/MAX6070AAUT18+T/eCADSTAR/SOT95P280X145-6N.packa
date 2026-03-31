@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "MAX6070AAUT18+T"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-10-26-04:49:13)
+    (mountForm default
+        (footprintRef "SOT95P280X145-6N")
+        (spec "System")
+    )
+)

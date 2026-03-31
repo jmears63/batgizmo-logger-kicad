@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP6S91-E_MS
+D Low-Gain PGA
+K
+F http://componentsearchengine.com/Datasheets/1/MCP6S91-E_MS.pdf
+$ENDCMP
+#
+#End Doc Library

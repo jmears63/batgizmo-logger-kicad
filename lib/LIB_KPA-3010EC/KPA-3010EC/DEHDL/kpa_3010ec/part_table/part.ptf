@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'KPA_3010EC'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Kingbright", "KPA-3010EC" (!) = "", "APA3010ZGCGX", "Other", "N/A", "https://www.mouser.co.uk/ProductDetail/Kingbright/KPA-3010EC?qs=2JU0tDl2GZ2Xj2WABSYoCA%3D%3D", "KPA-3010EC", "https://www.arrow.com/en/products/kpa-3010ec/kingbright?region=europe", "2.5 V Red LED Side View SMD, Kingbright KPA-3010EC", "https://componentsearchengine.com/Datasheets/2/KPA-3010EC.pdf", "2 mm"
+END_PART
+
+END.

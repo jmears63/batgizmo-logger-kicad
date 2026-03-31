@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'NCV8730ASN330T1G'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "onsemi", "NCV8730ASN330T1G" (!) = "", "SOT95P275X110-5N", "SOT23 (5-Pin)", "863-NCV8730ASN330T1G", "https://www.mouser.co.uk/ProductDetail/onsemi/NCV8730ASN330T1G?qs=GedFDFLaBXG9IOwczGXdzg%3D%3D", "NCV8730ASN330T1G", "https://www.arrow.com/en/products/ncv8730asn330t1g/on-semiconductor?region=nac", "LDO Regulator Pos 3.3V 0.15A Automotive 5-Pin TSOP T/R", "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/2df29e4e0191e431728827d4926d2a47.pdf", "1.1 mm"
+END_PART
+
+END.

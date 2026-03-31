@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model KPA-3010EC
+#/1188682/494016/2.50/3/4/LED
+DEF KPA-3010EC LED 0 30 Y Y 1 F N
+F0 "LED" 1150 300 50 H V L CNN
+F1 "KPA-3010EC" 1150 200 50 H V L CNN
+F2 "APA3010ZGCGX" 1150 100 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/2/KPA-3010EC.pdf" 1150 0 50 H I L CNN
+F4 "2.5 V Red LED Side View SMD, Kingbright KPA-3010EC" 1150 -100 50 H I L CNN "Description"
+F5 "2" 1150 -200 50 H I L CNN "Height"
+F6 "Kingbright" 1150 -300 50 H I L CNN "Manufacturer_Name"
+F7 "KPA-3010EC" 1150 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "N/A" 1150 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Kingbright/KPA-3010EC?qs=2JU0tDl2GZ2Xj2WABSYoCA%3D%3D" 1150 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "KPA-3010EC" 1150 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/kpa-3010ec/kingbright?region=europe" 1150 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X K 1 1300 0 200 L 50 50 0 0 P
+X A 2 1300 -100 200 L 50 50 0 0 P
+X THERMAL_PAD 3 0 0 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 1100 100 1100 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,17 @@
+.KPA-3010EC :1 ;2.5 V Red LED Side View SMD, Kingbright KPA-3010EC
+APA3010ZGCGX
+*STM LED
+*NGS
+*PLB 1="K" 2="A" 3="THERMAL PAD"
+*MXP 3
+*DFN KPA-3010EC
+~!Manufacturer_Name (Kingbright)
+~!Manufacturer_Part_Number (KPA-3010EC)
+~!Mouser Part Number (N/A)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Kingbright/KPA-3010EC?qs=2JU0tDl2GZ2Xj2WABSYoCA%3D%3D)
+~!Arrow Part Number (KPA-3010EC)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/kpa-3010ec/kingbright?region=europe)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/2/KPA-3010EC.pdf)
+~!Height (2mm)
+KPA-3010EC
+1.1!U 2.1!U 3.1!U 

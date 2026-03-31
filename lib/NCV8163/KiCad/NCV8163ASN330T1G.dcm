@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NCV8163ASN330T1G
+D LDO 250 MA AD 3.3V, ULTRA
+K
+F http://www.onsemi.com/pub/Collateral/NCV8163-D.PDF
+$ENDCMP
+#
+#End Doc Library

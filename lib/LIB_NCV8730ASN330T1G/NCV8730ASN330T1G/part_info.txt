@@ -1,0 +1,9 @@
+Manufacturer=onsemi
+PartNumber=NCV8730ASN330T1G
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (5-Pin)
+PinCount=5
+Version=1.1
+Released=2020-08-18 13:37:49
+Downloaded=2024-01-29 19:29:25
+3D=Y

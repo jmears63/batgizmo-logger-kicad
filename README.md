@@ -2,11 +2,15 @@
 
 This repo contains hardware design files for the BatGizmo Logger PCB, generated in KiCad, including the schematic, PCB layout, and local symbol/footprint libraries for the logger board.
 
+General information can be found in [this blog post](https://twilighttravels.org/2026/04/04/batgizmo-detector-design/). The [firmware can be found here](https://github.com/jmears63/batgizmo-logger-595).
+
 <p align="center">
   <img src="pcb-front.png" alt="PCB front" width="48%">
   <img src="pcb-back.png" alt="PCB back" width="48%">
 </p>
 Open the project files in KiCad to see the most recent PCBs.
+
+
 
 ## What Is the BatGizmo Logger?
 

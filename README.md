@@ -51,6 +51,10 @@ Use KiCad's built-in exporters as needed:
 
 Generated fabrication/output artifacts are intentionally ignored in git (see `.gitignore`), so they can be recreated locally per release.
 
+### Build instructions
+
+Detailed build instructions with photographs can be found in the [WIKI](https://github.com/jmears63/batgizmo-logger-kicad/wiki/Building-BatGizmo)
+
 ## License
 
 This project is licensed under the **CERN Open Hardware License v2 - Permissive (CERN-OHL-P v2)**.
